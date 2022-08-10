@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Apoxys
 - I’m interested in coding
-- I’m currently learning how to code from scratch 
+- I’m learning how to code not-totally-from-scratch 
 - I’m looking to collaborate on anything that could help me learn and discover
 - How to reach me : DMs or something idk I'm just getting started
 
