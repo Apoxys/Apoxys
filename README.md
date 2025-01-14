@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Apoxys
 - I’m interested in coding in general, I just love the challenges and solving problems
 - Learned HTML/CSS/JS for an online web dev course
-- Currently discovering and learning Python
+- Currently learning Python, oriented towards AI
 - I’m looking to collaborate on anything that could help me learn and discover
 
 <!---
